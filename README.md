@@ -79,7 +79,11 @@ accuracy와 specificity 측면에서 CatboostClassifier가 각각 0.94, 0.83으�
 결과 페이지 : 제가 만들 최종 결과물의 주소는 아래와 같습니다.  
 https://u7s2pv-sunguk-shin.shinyapps.io/test2/  
   
+
+### Why interactive website?  
   
+실제 공장에서 품질 관리에 이상이 생기면 바로 현장에서  
+![image](https://github.com/SungUk/quality/assets/5809062/58866956-dc07-448f-bf39-cad0fe610ea0)
 
 
 

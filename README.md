@@ -40,4 +40,3 @@ RShiny 폴더는 R 프로젝트 폴더로 품질예측 결과 파일을 입력�
   
 결과 페이지 : 제가 만들 최종 결과물의 주소는 아래와 같습니다.<br/>
 https://u7s2pv-sunguk-shin.shinyapps.io/test2/<br/>
-

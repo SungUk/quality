@@ -58,13 +58,13 @@ RShiny 폴더는 R 프로젝트 폴더로 품질예측 결과 파일을 입력�
   
 ### 예측에 사용된 모델과 선정 기준  
   
-[스마트 공장 제품 품질 상태 분류](https://dacon.io/competitions/official/236055/data)  
+사전조사 개념으로 회귀분석을 수행하였고,  
+Random Forest, DNN, CatboostClassifier를 confusion matrix로 비교한 결과  
+accuracy와 specificity 측면에서 CatboostClassifier가 각각 0.94, 0.83으로 가장 우수하여 품질 예측에 사용되었습니다.  
+![image](https://github.com/SungUk/quality/assets/5809062/8dd8bcd2-e7c7-4baa-a492-98ac6d5337c5)  
+이와 같은 결과가 나온 것에는 양품의 개수가 많고 불량품의 개수가 적은 자료의 특성도 기여를 한 것으로 사료됩니다.  
 
 
-
-
-
-  
 ### 최종 결과물 예시  
   
 결과 페이지 : 제가 만들 최종 결과물의 주소는 아래와 같습니다.  

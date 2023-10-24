@@ -21,7 +21,7 @@ catboost 폴더는 Python으로 CatboostClassifier 모델을 이용하여 품질
 RShiny 폴더는 R 프로젝트 폴더로 품질예측 결과 파일을 입력받아 웹에서 interactive하게 보여주는 역할을 합니다.  
 
   
-작업하실 R 프로젝트 폴더에 파일들을 복사해서 붙여넣기 해주세요.  
+작업하실 R 프로젝트 폴더에 파일들을 복사해서 붙여넣기 해주시거나 아니면 해당 폴더를 R 프로젝트 폴더로 지정하세요.  
 실행하실 때는 RStudio에서 아래의 명령어를 실행하시면 됩니다.  
 ```
 > #install.packages("shiny")
@@ -39,7 +39,6 @@ RShiny 폴더는 R 프로젝트 폴더로 품질예측 결과 파일을 입력�
 ### 최종 결과물 예시  
   
 결과 페이지 : 제가 만들 최종 결과물의 주소는 아래와 같습니다.  
-  
 https://u7s2pv-sunguk-shin.shinyapps.io/test2/  
   
   

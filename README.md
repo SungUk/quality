@@ -12,6 +12,12 @@
 회원가입이 필요한 웹사이트 : Shinyapps.io(https://www.shinyapps.io/)  
 
   
+### 원본 데이터 출처  
+  
+[스마트 공장 제품 품질 상태 분류](https://dacon.io/competitions/official/236055/data)  
+![image](https://github.com/SungUk/quality/assets/5809062/7fdc761b-5e34-44f7-bccb-2ab1ed3c2be1)
+
+
 ### 설치 및 실행  
   
 catboost 폴더는 Python으로 CatboostClassifier 모델을 이용하여 품질 예측을 한 결과를 R의 프로젝트 폴더로 출력해줍니다.  
@@ -40,10 +46,17 @@ RShiny 폴더는 R 프로젝트 폴더로 품질예측 결과 파일을 입력�
 ```
 
 
+### 데이터 전처리와 EDA  
+  
+대회용으로 잘 정리된 정형데이터이므로 특별한 데이터 전처리는 필요 없었습니다.  
+
+
+
 ### 원본 데이터 출처  
   
-[스마트 공장 제품 품질 상태 분류](https://dacon.io/competitions/official/236055/data)
-![image](https://github.com/SungUk/quality/assets/5809062/7da7a491-ed5e-4e6b-9c61-4ce2552cc1f3)
+[스마트 공장 제품 품질 상태 분류](https://dacon.io/competitions/official/236055/data)  
+
+
 
 
 

@@ -39,6 +39,14 @@ RShiny 폴더는 R 프로젝트 폴더로 품질예측 결과 파일을 입력�
 > deployApp()
 ```
 
+
+### 원본 데이터 출처  
+  
+[스마트 공장 제품 품질 상태 분류](https://dacon.io/competitions/official/236055/data)
+![image](https://github.com/SungUk/quality/assets/5809062/7da7a491-ed5e-4e6b-9c61-4ce2552cc1f3)
+
+
+
   
 ### 최종 결과물 예시  
   

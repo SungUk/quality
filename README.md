@@ -8,7 +8,7 @@
   
 ### 사용된 프로그램과 웹사이트  
   
-설치해야 하는 프로그램 : 파이썬, R  
+설치해야 하는 프로그램 : 파이썬, R & RStudio  
 회원가입이 필요한 웹사이트 : Shinyapps.io(https://www.shinyapps.io/)  
 
   

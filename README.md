@@ -82,8 +82,10 @@ https://u7s2pv-sunguk-shin.shinyapps.io/test2/
 
 ### Why interactive website?  
   
-실제 공장에서 품질 관리에 이상이 생기면 바로 현장에서 어떤 종류인지 몰라도  
-이름만 알면 검색이 가능하도록 테이블을 구현하였습니다. 
+실제 공장에서 보통 다양한 분야의 여러 사람들이 자신의 담당분야만 전문적으로 파고들며  
+서로 용어도 통일되지 않은 상태로 일하는 경우가 많습니다.  
+하지만 품질 관리에 이상이 생기면 빠르게 현장에서 상황을 파악할 수 있게  
+어떤 종류인지 몰라도 이름만 알면 검색이 가능하도록 테이블을 interactive하게 구현하였습니다.  
 ![image](https://github.com/SungUk/quality/assets/5809062/58866956-dc07-448f-bf39-cad0fe610ea0)
 
 

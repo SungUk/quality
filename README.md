@@ -88,6 +88,10 @@ https://u7s2pv-sunguk-shin.shinyapps.io/test2/
 어떤 종류인지 몰라도 이름만 알면 검색이 가능하도록 테이블을 interactive하게 구현하였습니다.  
 ![image](https://github.com/SungUk/quality/assets/5809062/58866956-dc07-448f-bf39-cad0fe610ea0)
 
+또한 공장에서 작업에 기준이 되는 것이 라인이기 때문에 라인별로 양품(1)과 불량품(0)의 비율을  
+시각적으로 편리하게 확인할 수 있도록 드랍박스와 파이 그래프를 구현하였습니다.  
+![image](https://github.com/SungUk/quality/assets/5809062/039bd4a7-1346-46f4-b14f-3d9a95e5a169)
+
 
 
   

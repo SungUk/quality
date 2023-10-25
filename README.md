@@ -82,7 +82,8 @@ https://u7s2pv-sunguk-shin.shinyapps.io/test2/
 
 ### Why interactive website?  
   
-실제 공장에서 품질 관리에 이상이 생기면 바로 현장에서  
+실제 공장에서 품질 관리에 이상이 생기면 바로 현장에서 어떤 종류인지 몰라도  
+이름만 알면 검색이 가능하도록 테이블을 구현하였습니다. 
 ![image](https://github.com/SungUk/quality/assets/5809062/58866956-dc07-448f-bf39-cad0fe610ea0)
 
 
